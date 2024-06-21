@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about future hopes and dreams
 - 📫 How to reach me: github.com/valgardg
 - ⚡ Fun fact: Hailey is endgame
-
+<hr>
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+<hr>
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valgardg&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
@@ -39,10 +39,7 @@ Here are some ideas to get you started:
 <p>
   <h3 align="center">Stats:</h3>
 <p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=valgardg&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="valgardg" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=valgardg&show_icons=true&theme=dark&locale=en" alt="valgardg" /></p></a>  
-  </p>
+    <a align="left"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valgardg&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="valgardg" /></p></a>
+</p>
 </p>
 </div>
