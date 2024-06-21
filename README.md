@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 </p>
 </p>
 </div>
+
+#### Thanks for visiting 🕺
+![VisitorCount](https://profile-counter.glitch.me/valgardg/count.svg)
