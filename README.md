@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p>
   <h3 align="center">Stats:</h3>
 <p>
-    <a align="left"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valgardg&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="valgardg" /></p></a>
+    <a align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valgardg&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="valgardg" /></p></a>
 </p>
 </p>
 </div>
