@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on game development projects, mainly 2d unity games
 - 💬 Ask me about future hopes and dreams
 - 📫 How to reach me: github.com/valgardg
-- ⚡ Fun fact: Hailey is endgame
+- ⚡ Fun fact: Hailey E Y is endgame
 <hr>
 <h3>When I code, I rely on</h3>
 <p>
