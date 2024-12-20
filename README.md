@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=valgardg&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <!-- GITHUB STATS -->
+<!--
 <hr>
 <div style="display: block;">
 <p>
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 </p>
 </p>
 </div>
+-->
 
 #### Thanks for visiting 🕺
 ![VisitorCount](https://profile-counter.glitch.me/valgardg/count.svg)
