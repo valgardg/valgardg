@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on an internship as a full stack developer
+- 🔭 I’m currently working as a full stack developer developing a RAG system for Icelandic Lawyers!
 - 🌱 I’m currently learning development involving NLP and LLMs
 - 👯 I’m looking to collaborate on game development projects, mainly 2d unity games
 - 💬 Ask me about future hopes and dreams
